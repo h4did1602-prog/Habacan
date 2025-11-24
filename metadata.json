@@ -1,0 +1,5 @@
+{
+  "name": "GeniusPAS - Generator Soal Ujian",
+  "description": "Aplikasi web modern untuk guru membuat soal Penilaian Akhir Semester (PAS) otomatis menggunakan AI. Mendukung format Pilihan Ganda dan Esai dengan kisi-kisi lengkap.",
+  "requestFramePermissions": []
+}
